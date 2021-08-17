@@ -1,6 +1,6 @@
 ### Well, Hello there 👋
 
-Am Owino, Thanks for visiting my github. 
+Am Owino, thank you for visiting my github. 
 
 <table>
     <tr align="center">
