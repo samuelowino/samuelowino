@@ -1,16 +1,15 @@
-### Hi there 👋
+### Well, Hello there 👋
 
-<!--
-**samuelowino/samuelowino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Am Owino, Thanks for visiting my github. 
 
-Here are some ideas to get you started:
+<table>
+    <tr align="center">
+      <td>
+<h3><samp>&nbsp;&nbsp;S A M U E L &nbsp; O W I N O&nbsp;&nbsp;</samp></h3>
+<sub><samp>Founder and Developer at Raqia Inc</samp></sub><br>
+<sub><samp>Find me on <a href="https://twitter.com/SamProgramiz">twitter-verse</a> & <a href="https://www.linkedin.com/in/samuel-owino-954154129/">Linkedin</a></br></br></samp></sub>
+</td>
+    </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Stole this <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">hyper text markup language</a> business card from luke.</sub>
