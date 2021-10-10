@@ -22,3 +22,4 @@ Am Owino, thank you for visiting my Github.
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelowino">
 <p/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelowino&layout=compact)](https://github.com/samuelowino/github-readme-stats)
