@@ -16,7 +16,7 @@ Am Owino, thank you for visiting my Github.
 
 ## Stats, because it's fun to look at.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=samuelowino&theme=green&show_icons=true&include_all_commits=true&count_private=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=samuelowino&theme=green&show_icons=true&include_all_commits=true&count_private=true) -->
 
 <p align="left">
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelowino">
