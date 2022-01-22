@@ -14,10 +14,10 @@ Am Owino, thank you for visiting my Github.
 
 <sub>Stole this <a href="https://raw.githubusercontent.com/lukehefson/lukehefson/master/README.md">hyper text markup language</a> business card from luke.</sub>
 
-## Stats, because it's fun to look at.
-
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=samuelowino&theme=green&show_icons=true&include_all_commits=true&count_private=true) -->
-
+<p>
+<img src='https://github-readme-stats.vercel.app/api?username=samuelowino&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='start' />
+</o>
 <p align="left">
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelowino">
 <p/>
