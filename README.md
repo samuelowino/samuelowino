@@ -23,7 +23,7 @@ Am Owino, thank you for visiting my Github.
 <p/>
 
  ### Now Playing - Spotify 🎧
-[![Spotify](https://novatorem-jtfdwttq0-nst4fiaaq66prjbqguehaptx1.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelowino&layout=compact)](https://github.com/samuelowino/github-readme-stats)
  -->
