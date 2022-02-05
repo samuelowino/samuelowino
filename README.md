@@ -1,8 +1,8 @@
-### Well, Hello there 👋
+### Well, Hello there 👋 it's me, ... yes ... Samuel Owino
 
-Am Owino, thank you for visiting my Github. 
+![profile](https://wallpaperaccess.com/full/4251150.jpg)
 
-<table>
+<!-- <table>
     <tr align="center">
       <td>
 <h3><samp>&nbsp;&nbsp;S A M U E L &nbsp; O W I N O&nbsp;&nbsp;</samp></h3>
@@ -10,7 +10,7 @@ Am Owino, thank you for visiting my Github.
 <sub><samp>Find me on <a href="https://twitter.com/SamProgramiz">twitter-verse</a> & <a href="https://www.linkedin.com/in/samuel-owino-954154129/">Linkedin</a></br></br></samp></sub>
 </td>
     </tr>
-</table>
+</table> -->
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=samuelowino&theme=green&show_icons=true&include_all_commits=true&count_private=true) -->
 <p>
