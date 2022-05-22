@@ -24,9 +24,4 @@
   <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelowino">
 <p/>
 
- ### Now Playing - Spotify 🎧
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/samuelowino)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelowino&layout=compact)](https://github.com/samuelowino/github-readme-stats)
- -->
  
