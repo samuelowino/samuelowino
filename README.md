@@ -1,5 +1,3 @@
-### Well, Hello there 👋 it's me, ... yes ... Samuel Owino
-
 ![profile](https://wallpaperaccess.com/full/4251150.jpg)
 
 <!-- <table>
