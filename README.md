@@ -1,5 +1,4 @@
 ![profile](https://wallpaperaccess.com/full/4251150.jpg)
-<u>Images captured during the uprising against bugs and technical debt on the planet <b>Codetopia</b> in the year <b>2077</b></U>
 
 <!-- <table>
     <tr align="center">
