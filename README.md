@@ -10,14 +10,8 @@
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=samuelowino&theme=green&show_icons=true&include_all_commits=true&count_private=true) -->
 <p>
-    <img src='https://github-readme-stats.vercel.app/api?username=samuelowino&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='start' />
+   <img src='https://github-readme-stats.vercel.app/api?username=samuelowino&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='start' />
 
 </p>
-
-<p>
-</p>
-<p align="left">
-  <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelowino">
-<p/>
 
  
