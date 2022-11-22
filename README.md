@@ -3,6 +3,7 @@
       <td>
 <h3><samp>&nbsp;&nbsp;S A M U E L &nbsp; O W I N O&nbsp;&nbsp;</samp></h3>
 <h3><samp>&nbsp;&nbsp;INDIE &nbsp;🛠️ HACKER&nbsp;&nbsp;</samp></h3>
+<li><samp>Co-Founder <a href="https://thelifeplanner.co">Life Planner</a></samp><br></li>
 <li><samp>Checkout my Android Apps on <a href="https://play.google.com/store/apps/details?id=org.aplusscreators.com">Google Play Store</a></samp><br></li>
 <li><samp>Download my iPhone/iPad/macOS Apps on the <a href="https://apps.apple.com/us/app/life-planner-personal-planner/id1623878839"> App Store</a></samp><br></li>
 <li><samp>Previous OSS work:<a href="https://github.com/muzima">The mUzima project</a> ongoing OSS project: <a href="https://github.com/samuelowino/mobile-translate">Translation Automation</a></samp><br></li>
