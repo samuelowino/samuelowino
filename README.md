@@ -12,6 +12,8 @@
 <li><samp>Connect 🌍 with me on <a href="https://twitter.com/SamProgramiz">Twitter</a> & <a href="https://www.linkedin.com/in/samuel-owino-954154129/">Linkedin</a>
 </br></br></samp></li>
 
+<a href="https://www.producthunt.com/posts/life-planner-personal-planner?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-life&#0045;planner&#0045;personal&#0045;planner" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=368767&theme=light" alt="Life&#0032;Planner&#0032;Personal&#0032;Planner - Personal&#0032;finance&#0044;&#0032;habits&#0044;&#0032;tasks&#0032;&#0038;&#0032;journaling&#0032;all&#0032;in&#0032;one&#0032;app | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=samuelowino&theme=green&show_icons=true&include_all_commits=true&count_private=true) -->
 
 </p>
